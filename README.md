@@ -5,6 +5,7 @@
 - Difficulty: Medium
 - Find the maximum number of disks that can be placed on two rods. The disks should be in decreasing order of size on the first rod and in increasing order of size on the second rod.
 - <https://app.codility.com/programmers/challenges/may_the_4th_2021/>
+- <https://app.codility.com/programmers/task/double_hanoi/>
 
 ## Versions
 
