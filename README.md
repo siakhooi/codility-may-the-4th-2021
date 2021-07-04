@@ -23,3 +23,11 @@
 | File | Complexity              | Result | Report                                                                            |
 | ---- | ----------------------- | ------ | --------------------------------------------------------------------------------- |
 | `A`  | `O(N*log(N))` or `O(N)` | `Good` | [3KMABZ](https://app.codility.com/cert/view/cert3KMABZ-DFKT9B4U8M83H9HB/details/) |
+
+### Solution provided by Codility
+
+-<https://www.youtube.com/watch?v=ISOXvgXUlbE>
+
+| File | Complexity              | Result | Report                                                              |
+| ---- | ----------------------- | ------ | ------------------------------------------------------------------- |
+| `B`  | `O(N*log(N))` or `O(N)` | `Good` | [YZ6J7N](https://app.codility.com/demo/results/trainingYZ6J7N-KCD/) |
